@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/rpawlicki/soap-playground/tree/master.svg?style=svg)](https://circleci.com/gh/rpawlicki/soap-playground/tree/master)
+
+
 # soap-playground
 
 Lorem ipsum ... blablabla... 
